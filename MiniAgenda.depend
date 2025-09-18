@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1758194212 source:c:\xampp\htdocs\miniagenda\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
